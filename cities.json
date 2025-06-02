@@ -1,0 +1,176 @@
+[
+    {
+      "province": "Metro Manila",
+      "cities": [
+        "Manila",
+        "Quezon City",
+        "Parañaque",
+        "Pasay",
+        "Pasig",
+        "Taguig",
+        "Valenzuela",
+        "Marikina"
+      ]
+    },
+    {
+      "province": "Cavite",
+      "cities": [
+        "Bacoor",
+        "Cavite City",
+        "Dasmariñas",
+        "General Trias",
+        "Imus City",
+        "Tagaytay City",
+        "Trece Martires City"
+      ]
+    },
+    {
+      "province": "Laguna",
+      "cities": [
+        "Biñan",
+        "Calamba",
+        "San Pablo City",
+        "Santa Rosa City"
+      ]
+    },
+    {
+      "province": "Batangas",
+      "cities": [
+        "Batangas City",
+        "Lipa City"
+      ]
+    },
+    {
+      "province": "Cebu",
+      "cities": [
+        "Cebu City",
+        "Carcar",
+        "Danao",
+        "Mandaue",
+        "Naga City (Cebu)",
+        "Toledo City"
+      ]
+    },
+    {
+      "province": "Pampanga",
+      "cities": [
+        "Angeles City",
+        "Mabalacat City",
+        "San Fernando City (Pampanga)"
+      ]
+    },
+    {
+      "province": "Negros Occidental",
+      "cities": [
+        "Bago",
+        "Cadiz",
+        "Himamaylan",
+        "Kabankalan City",
+        "La Carlota City",
+        "Sagay City",
+        "San Carlos City (Negros Occidental)",
+        "Silay City",
+        "Sipalay City",
+        "Victorias City"
+      ]
+    },
+    {
+      "province": "Ilocos Sur",
+      "cities": ["Vigan City"]
+    },
+    {
+      "province": "Ilocos Norte",
+      "cities": ["Laoag City"]
+    },
+    {
+      "province": "Quezon",
+      "cities": ["Lucena City", "Tayabas City"]
+    },
+    {
+      "province": "Others",
+      "cities": [
+        "Alaminos",
+        "Antipolo",
+        "Bacolod",
+        "Bais",
+        "Balanga",
+        "Bayawan",
+        "Baybay",
+        "Bayugan",
+        "Borongan",
+        "Cabadbaran",
+        "Cabanatuan",
+        "Cabuyao",
+        "Cagayan de Oro",
+        "Calapan",
+        "Calbayog",
+        "Candon",
+        "Canlaon",
+        "Catbalogan",
+        "Cauayan",
+        "Cotabato City",
+        "Dagupan",
+        "Dapitan",
+        "Davao City",
+        "Digos",
+        "Dipolog",
+        "Dumaguete",
+        "El Salvador",
+        "Escalante",
+        "Gapan",
+        "General Santos City",
+        "Gingoog",
+        "Guihulngan",
+        "Ilagan",
+        "Iligan City",
+        "Iriga City",
+        "Isabela City",
+        "Kidapawan City",
+        "Koronadal City",
+        "Lamitan City",
+        "Legazpi City",
+        "Ligao City",
+        "Maasin City",
+        "Malaybalay City",
+        "Malolos",
+        "Marawi",
+        "Masbate City",
+        "Mati",
+        "Meycauayan",
+        "Muñoz",
+        "Naga City (Camarines Sur)",
+        "Olongapo",
+        "Ormoc",
+        "Oroquieta",
+        "Ozamiz",
+        "Pagadian",
+        "Palayan",
+        "Panabo",
+        "Puerto Princesa",
+        "Roxas City",
+        "Samal",
+        "San Carlos City (Pangasinan)",
+        "San Fernando City (La Union)",
+        "San Jose City (Nueva Ecija)",
+        "San Jose del Monte",
+        "Santiago City",
+        "Sorsogon City",
+        "Surigao City",
+        "Tabaco City",
+        "Tabuk City",
+        "Tacloban City",
+        "Tacurong City",
+        "Tagbilaran City",
+        "Tangub City",
+        "Tanjay City",
+        "Tarlac City",
+        "Tuguegarao City",
+        "Urdaneta City",
+        "Valencia City",
+        "Zamboanga City",
+        "Zamboanga del Norte",
+        "Zamboanga del Sur"
+      ]
+    }
+  ]
+  

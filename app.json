@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "RadyoPilipinas",
+    "slug": "RadyoPilipinas",
+    "version": "1.0.0",
+    "jsEngine": "hermes",
+    "experiments": {
+      "newArchEnabled": false
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "dae30ba8-75de-4a7a-aeef-f03d8d93c38d"
+      }
+    }
+  }
+}
