@@ -1,4 +1,4 @@
-# Radyo Pilipinas
+# Radyo App
 
 A React Native mobile application for streaming radio stations in the Philippines. This app provides a user-friendly interface for accessing various radio stations, with features like location-based station discovery and customizable playback controls.
 
